@@ -1,17 +1,17 @@
-# ͬ�ô�ѧC++�������MOOCʵ��������
+# 同济大学C++程序设计MOOC实验题代码库
 
-## ? ��Ŀ����
-�������Ϊͬ�ô�ѧ��C++������ơ�MOOC�γ̵�ʵ���������ϼ��������γ̸��½ڵı����ϰʵ�֡����뾭���ϸ���ԣ�����Ϊѧϰ�ο���
+## 项目概述
+本代码库为同济大学《C++程序设计》MOOC课程的实验题解答代码合集，包含课程各章节MOOC的编程练习实现，可作为学习参考。
 
-## ? Ŀ¼�ṹ
+## 目录结构
 ```
-HomeWork_mooc1-2/        # ��1-2��ʵ��
-  ���� homework1/          # ʵ��һ
-  ���� homework2/          # ʵ���
-  ���� homework3/          # ʵ����
-HomeWork_mooc2-2/        # ��2-2��ʵ��
-  ���� homework1/          
-  ���� homework2/
-  ���� homework3/
-...�������½ڽṹ���ƣ�
+HomeWork_mooc1-2/        # 第1-2章实验
+  ├─ homework1/          # 实验一
+  ├─ homework2/          # 实验二
+  └─ homework3/          # 实验三
+HomeWork_mooc2-2/        # 第2-2章实验
+  ├─ homework1/          
+  ├─ homework2/
+  └─ homework3/
+...（后续章节结构类似）
 ```
